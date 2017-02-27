@@ -11,5 +11,6 @@ def call(body) {
     }
 
     echo "${config.hello}, World!"
+    echo "how are you?"
 
 }
