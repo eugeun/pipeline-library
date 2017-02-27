@@ -10,6 +10,6 @@ def call(body) {
       config.hello = 'Greetings'
     }
 
-    echo "${config.hello}, world!"
+    echo "${config.hello}, World!"
 
 }
